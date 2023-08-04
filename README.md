@@ -4,6 +4,8 @@
 
 Provides extension plugins for module Offer.
 
+**DEPRECATED - This module is not continued at this point.**
+
 ## Installation
 
 ```
